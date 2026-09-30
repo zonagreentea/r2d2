@@ -3,8 +3,8 @@
 truth = True
 fiction = False
 
-if fiction = truth:
+if fiction == truth:
     return True
     
-if truth = fiction:
+if truth == fiction:
     return False
