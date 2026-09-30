@@ -6,5 +6,8 @@ fiction = False
 if fiction == truth:
     return True
     
-if truth == fiction:
+elif truth == fiction:
     return False
+    
+else:
+    return :)
