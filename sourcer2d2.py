@@ -10,5 +10,4 @@ elif truth == fiction:
     return False
     
 else:
-    return :)
-    return (:
+    return (:)
